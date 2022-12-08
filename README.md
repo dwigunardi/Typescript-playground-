@@ -1,6 +1,7 @@
 # Bicara TypeScript
 
 -----------------------INFO------------------------
+
 Repo ini hanya hasil clone untuk lengkap nya tolong kunjungi alamat di bawah ini dan subscribe sang pembuat repo, Terimakasih SastraNababan
 
 

@@ -1,5 +1,10 @@
 # Bicara TypeScript
 
+-----------------------INFO------------------------
+Repo ini hanya hasil clone untuk lengkap nya tolong kunjungi alamat di bawah ini dan subscribe sang pembuat repo, Terimakasih SastraNababan
+
+
+
 This repo contain resource of Bicara Typescript.
 [Youtube Series for Learn Typescript](https://www.youtube.com/SastraNababan?sub_confirmation=1)
 

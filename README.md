@@ -58,11 +58,11 @@ How to declare typescript type :
 
 ### Exercises :
 
-- [ ] Convert all JavaScript Types to TypeScript
-- [ ] Function Type
-- [ ] Union Type `|`
+- [✅ ] Convert all JavaScript Types to TypeScript
+- [✅ ] Function Type
+- [✅ ] Union Type `|`
 - [ ] Type Aliases
-- [ ] Setup Environtment ( eslint, prettier )
+- [✅ ] Setup Environtment ( eslint, prettier )
 
 ## 3. Array & Tuples
 
@@ -79,13 +79,13 @@ There are few ways to declare an array:
 
 ### Exercises :
 
-- [ ] Array of Number
-- [ ] Array of String
-- [ ] Array with Union
-- [ ] Tuple
-- [ ] Array of Object
-- [ ] Array multidimensional
-- [ ] Destructuring
+- [✅] Array of Number
+- [✅] Array of String
+- [✅] Array with Union
+- [✅] Tuple
+- [✅] Array of Object
+- [✅] Array multidimensional
+- [✅] Destructuring
 
 ## 4. Object
 
@@ -93,9 +93,9 @@ Object is a type that represents the non-primitive type, i.e. anything that is n
 
 ### Exercises :
 
-- [ ] Object Literal
-- [ ] Nested Object
-- [ ] Nested, Object of Array
+- [✅] Object Literal
+- [✅] Nested Object
+- [✅] Nested, Object of Array
 - [ ] Nested, Object of Object ( Dynamic Properties)
 - [ ] Destructuring
 - [ ] Utility Types ( `ReadOnly, Record` )
